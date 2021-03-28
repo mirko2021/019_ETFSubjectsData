@@ -1,0 +1,634 @@
+[{
+  "_id": {
+    "$oid": "605f6e06f0616d33c8088c77"
+  },
+  "aliasId": "Програмски језици I",
+  "mainSubjectId": "2237",
+  "relatedSubjectsIds": [
+    "2237.АТ",
+    "2237.ЕН",
+    "2237.СИ",
+    "2237.ЕЛ",
+    "2237.ТК",
+    "2237.РИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f6f47f0616d33c8089051"
+  },
+  "aliasId": "Математика IV",
+  "mainSubjectId": "2245",
+  "relatedSubjectsIds": [
+    "2245.TK",
+    "2245.СИ",
+    "2245.РИ",
+    "2245.ЕЛ",
+    "2245.ЕН",
+    "2245.АТ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f7006f0616d33c8089385"
+  },
+  "aliasId": "Структуре података и алгоритми",
+  "mainSubjectId": "2238",
+  "relatedSubjectsIds": [
+    "2238.РИ",
+    "2238.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f766af0616d33c8089f6e"
+  },
+  "aliasId": "Увод у електронику",
+  "mainSubjectId": "2242",
+  "relatedSubjectsIds": [
+    "2242.ЕЛ",
+    "2242.РИ",
+    "2242.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605f7fecf0616d33c808b059"
+  },
+  "aliasId": "Електрична мјерења",
+  "mainSubjectId": "2244",
+  "relatedSubjectsIds": [
+    "2244.ЕН",
+    "2244.ЕЛ",
+    "2244.РИ",
+    "2244.АТ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f807df0616d33c808b190"
+  },
+  "aliasId": "Програмски језици II",
+  "mainSubjectId": "2246",
+  "relatedSubjectsIds": [
+    "2246.РИ",
+    "2246.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f80b6f0616d33c808b204"
+  },
+  "aliasId": "Основи оперативних система",
+  "mainSubjectId": "2247",
+  "relatedSubjectsIds": [
+    "2247.РИ",
+    "2247.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f80f3f0616d33c808b283"
+  },
+  "aliasId": "Основи комуникација и теорија информација",
+  "mainSubjectId": "2248",
+  "relatedSubjectsIds": [
+    "2248.РИ",
+    "2248.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f82dcf0616d33c808b6ba"
+  },
+  "aliasId": "Линеарна електроника",
+  "mainSubjectId": "2250",
+  "relatedSubjectsIds": [
+    "2250.TK",
+    "2250.ТК",
+    "2250.ЕЛ",
+    "2250.РИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f8394f0616d33c808b831"
+  },
+  "aliasId": "Архитектура рачунара",
+  "mainSubjectId": "2251",
+  "relatedSubjectsIds": [
+    "2251.РИ",
+    "2251.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605f863ff0616d33c808b9f5"
+  },
+  "aliasId": "Рачунарске мреже",
+  "mainSubjectId": "2252",
+  "relatedSubjectsIds": [
+    "2252.ЕЛ",
+    "2252.РИ",
+    "2252.СИ",
+    "2252.РМ",
+    "2252.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fa10df0616d33c808ca09"
+  },
+  "aliasId": "Енглески језик I",
+  "mainSubjectId": "2253",
+  "relatedSubjectsIds": [
+    "2253.АТ",
+    "2253.ЕН",
+    "2253.ЕЛ",
+    "2253.РИ",
+    "2253.СИ",
+    "2253.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fa41df0616d33c808cdd5"
+  },
+  "aliasId": "Базе података",
+  "mainSubjectId": "2261",
+  "relatedSubjectsIds": [
+    "2261.РИ",
+    "2261.СИ",
+    "2261.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fa63af0616d33c808d02b"
+  },
+  "aliasId": "Енглески језик II",
+  "mainSubjectId": "2262",
+  "relatedSubjectsIds": [
+    "2262.АТ",
+    "2262.ЕЛ",
+    "2262.ЕН",
+    "2262.РИ",
+    "2262.СИ",
+    "2262.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fa77ff0616d33c808d0f5"
+  },
+  "aliasId": "Дигитална електроника",
+  "mainSubjectId": "2273",
+  "relatedSubjectsIds": [
+    "2273.ЕЛ",
+    "2273.РИ",
+    "2273.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fa8b4f0616d33c808d2cd"
+  },
+  "aliasId": "Програмирање у реалном времену",
+  "mainSubjectId": "2274",
+  "relatedSubjectsIds": [
+    "2274.РИ",
+    "2274.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fa94cf0616d33c808d55d"
+  },
+  "aliasId": "Основи система аутоматског управљања",
+  "mainSubjectId": "2275",
+  "relatedSubjectsIds": [
+    "2275.ЕЛ",
+    "2275.РИ",
+    "2275.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fae00f0616d33c808d8b3"
+  },
+  "aliasId": "Основи дигиталне обраде сигнала",
+  "mainSubjectId": "2276",
+  "relatedSubjectsIds": [
+    "2276.РИ",
+    "2276.СИ",
+    "2276.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fb01ff0616d33c808db06"
+  },
+  "aliasId": "Интеракција човјек-рачунар",
+  "mainSubjectId": "2277.РИ",
+  "relatedSubjectsIds": [
+    "2277.РИ",
+    "2277.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fb1caf0616d33c808dbd2"
+  },
+  "aliasId": "Дигитална обрада слике",
+  "mainSubjectId": "2283.ЕЛ",
+  "relatedSubjectsIds": [
+    "2283.ЕЛ",
+    "2283.РИ",
+    "2283.СИ",
+    "2283.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fb2f2f0616d33c808dc84"
+  },
+  "aliasId": "Методи вјештачке интелигенције",
+  "mainSubjectId": "2284.АТ",
+  "relatedSubjectsIds": [
+    "2284.АТ",
+    "2284.РИ",
+    "2284.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fb430f0616d33c808dd36"
+  },
+  "aliasId": "Микроконтролерски системи",
+  "mainSubjectId": "2285",
+  "relatedSubjectsIds": [
+    "2285.ТК",
+    "2285.РИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fb891f0616d33c808df41"
+  },
+  "aliasId": "Пројектовање дигиталних система",
+  "mainSubjectId": "2287",
+  "relatedSubjectsIds": [
+    "2287.ЕЛ",
+    "2287.ТК",
+    "2288.РИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fbbc1f0616d33c808e935"
+  },
+  "aliasId": "Системи за дигиталну обраду сигнала",
+  "mainSubjectId": "2289",
+  "relatedSubjectsIds": [
+    "2289.ЕЛ",
+    "2289.РИ",
+    "2289.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fbc79f0616d33c808ec2c"
+  },
+  "aliasId": "Роботика",
+  "mainSubjectId": "2291",
+  "relatedSubjectsIds": [
+    "2291.АТ",
+    "2291.РИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fbcecf0616d33c808eca0"
+  },
+  "aliasId": "Инжењерско предузетништво",
+  "mainSubjectId": "2293",
+  "relatedSubjectsIds": [
+    "2293.АТ",
+    "2293.РИ",
+    "2293.СИ",
+    "2293.ЕЛ",
+    "2293.ЕН",
+    "2293.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fbe34f0616d33c808ede6"
+  },
+  "aliasId": "Управљање пројектима",
+  "mainSubjectId": "2294",
+  "relatedSubjectsIds": [
+    "2294.АТ",
+    "2294.РИ",
+    "2294.СИ",
+    "2294.ЕЛ",
+    "2294.ЕН",
+    "2294.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fbea2f0616d33c808ee77"
+  },
+  "aliasId": "Мобилно рачунарство",
+  "mainSubjectId": "2297",
+  "relatedSubjectsIds": [
+    "2297.РИ",
+    "2297.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fbef8f0616d33c808eedb"
+  },
+  "aliasId": "Рачунарска графика",
+  "mainSubjectId": "2298",
+  "relatedSubjectsIds": [
+    "2298.РИ",
+    "2298.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fbf69f0616d33c808ef48"
+  },
+  "aliasId": "Уграђени рачунарски системи",
+  "mainSubjectId": "2299",
+  "relatedSubjectsIds": [
+    "2299.РИ",
+    "2299.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fc027f0616d33c808f000"
+  },
+  "aliasId": "Аквизиција података",
+  "mainSubjectId": "2300.РИ",
+  "relatedSubjectsIds": [
+    "2300.РИ",
+    "2300.АТ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fc0bbf0616d33c808f08a"
+  },
+  "aliasId": "Пројектовање електронских уређаја",
+  "mainSubjectId": "2303.1.РИ",
+  "relatedSubjectsIds": [
+    "2303.1.РИ",
+    "2303.РИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fc1a8f0616d33c808f38a"
+  },
+  "aliasId": "Пројектовање намјенских рачунарских структура",
+  "mainSubjectId": "2304",
+  "relatedSubjectsIds": [
+    "2304.ЕЛ",
+    "2304.РИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fc1f5f0616d33c808f3e0"
+  },
+  "aliasId": "Мултимедијални сигнали и системи",
+  "mainSubjectId": "2305",
+  "relatedSubjectsIds": [
+    "2305.РИ",
+    "2305.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fc283f0616d33c808f575"
+  },
+  "aliasId": "Стручна пракса",
+  "mainSubjectId": "2307",
+  "relatedSubjectsIds": [
+    "2307.ЕЛ",
+    "2307.ТК",
+    "2307.РИ",
+    "2307.СИ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fc35ef0616d33c808f77c"
+  },
+  "aliasId": "Дипломски рад",
+  "mainSubjectId": "2308",
+  "relatedSubjectsIds": [
+    "2308.АТ",
+    "2308.ЕН",
+    "2308.РИ",
+    "2308.СИ",
+    "2308.ЕЛ",
+    "2308.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fc432f0616d33c808f976"
+  },
+  "aliasId": "Математика III",
+  "mainSubjectId": "2309.АТ",
+  "relatedSubjectsIds": [
+    "2309.АТ",
+    "2309.ЕН",
+    "2309.ЕЛ",
+    "2309.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fca3af0616d33c808fddd"
+  },
+  "aliasId": "Теорија електричних кола",
+  "mainSubjectId": "2310",
+  "relatedSubjectsIds": [
+    "2310.АТ",
+    "2310.ЕН",
+    "2310.ЕЛ",
+    "2310.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fca83f0616d33c808fe3c"
+  },
+  "aliasId": "Сигнали и системи",
+  "mainSubjectId": "2311",
+  "relatedSubjectsIds": [
+    "2311.TK",
+    "2311.ЕЛ",
+    "2311.АТ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcaf3f0616d33c808fed0"
+  },
+  "aliasId": "Електромагнетика",
+  "mainSubjectId": "2312",
+  "relatedSubjectsIds": [
+    "2312.ЕН",
+    "2312.ЕЛ",
+    "2312.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcb5ef0616d33c808ff41"
+  },
+  "aliasId": "Основи телекомуникација I",
+  "mainSubjectId": "2313",
+  "relatedSubjectsIds": [
+    "2313.TK",
+    "2313.ЕЛ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcb98f0616d33c808ff8a"
+  },
+  "aliasId": "Импулсна електроника",
+  "mainSubjectId": "2314.ЕЛ",
+  "relatedSubjectsIds": [
+    "2314.ЕЛ",
+    "2314.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcbdef0616d33c808ffdb"
+  },
+  "aliasId": "Основи телекомуникација II",
+  "mainSubjectId": "2315",
+  "relatedSubjectsIds": [
+    "2315.ЕЛ",
+    "2315.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcc71f0616d33c8090293"
+  },
+  "aliasId": "Дигитална обрада сигнала",
+  "mainSubjectId": "2316.ЕЛ",
+  "relatedSubjectsIds": [
+    "2316.ЕЛ",
+    "2316.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fccd9f0616d33c80902fa"
+  },
+  "aliasId": "Дигиталне телекомуникације",
+  "mainSubjectId": "2321",
+  "relatedSubjectsIds": [
+    "2321.ЕЛ",
+    "2321.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcd38f0616d33c809035d"
+  },
+  "aliasId": "Бежичне сензорске мреже",
+  "mainSubjectId": "2330",
+  "relatedSubjectsIds": [
+    "2330.ЕЛ",
+    "2330.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcd86f0616d33c80903b3"
+  },
+  "aliasId": "РФ и микроталасна електроника",
+  "mainSubjectId": "2331",
+  "relatedSubjectsIds": [
+    "2331.ЕЛ",
+    "2331.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcdd4f0616d33c809040e"
+  },
+  "aliasId": "Дигитална телевизија",
+  "mainSubjectId": "2341",
+  "relatedSubjectsIds": [
+    "2341.ЕЛ",
+    "2341.ТК"
+  ]
+},{
+  "_id": {
+    "$oid": "605fce20f0616d33c8090465"
+  },
+  "aliasId": "Основи електронике",
+  "mainSubjectId": "2350.АТ",
+  "relatedSubjectsIds": [
+    "2350.АТ",
+    "2350.ЕН"
+  ]
+},{
+  "_id": {
+    "$oid": "605fce6df0616d33c80904ba"
+  },
+  "aliasId": "Електричне машине I",
+  "mainSubjectId": "2351",
+  "relatedSubjectsIds": [
+    "2351.АТ",
+    "2351.ЕН"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcee0f0616d33c809052c"
+  },
+  "aliasId": "Увод у теорију система",
+  "mainSubjectId": "2352",
+  "relatedSubjectsIds": [
+    "2352.АТ",
+    "2352.ЕН"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcf59f0616d33c80905b5"
+  },
+  "aliasId": "Енергетска електроника",
+  "mainSubjectId": "2353",
+  "relatedSubjectsIds": [
+    "2353.АТ",
+    "2353.ЕН"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcfaaf0616d33c8090614"
+  },
+  "aliasId": "Основи електроенергетике",
+  "mainSubjectId": "2354.АТ",
+  "relatedSubjectsIds": [
+    "2354.АТ",
+    "2354.ЕН"
+  ]
+},{
+  "_id": {
+    "$oid": "605fcff7f0616d33c809066b"
+  },
+  "aliasId": "Електричне машине II",
+  "mainSubjectId": "2355",
+  "relatedSubjectsIds": [
+    "2355.АТ",
+    "2355.ЕН"
+  ]
+},{
+  "_id": {
+    "$oid": "605fd03ff0616d33c80906c0"
+  },
+  "aliasId": "Системи аутоматског управљања",
+  "mainSubjectId": "2356",
+  "relatedSubjectsIds": [
+    "2356.ЕН",
+    "2356.АТ"
+  ]
+},{
+  "_id": {
+    "$oid": "605fd0a4f0616d33c8090728"
+  },
+  "aliasId": "Дигитални системи управљања",
+  "mainSubjectId": "2360",
+  "relatedSubjectsIds": [
+    "2360.АТ",
+    "2360.ЕН"
+  ]
+},{
+  "_id": {
+    "$oid": "605fd0faf0616d33c8090786"
+  },
+  "aliasId": "Системи за управљање и надзор",
+  "mainSubjectId": "2367",
+  "relatedSubjectsIds": [
+    "2367.АТ",
+    "2367.ЕН"
+  ]
+},{
+  "_id": {
+    "$oid": "605fd163f0616d33c8090900"
+  },
+  "aliasId": "Регулација електромоторних погона",
+  "mainSubjectId": "2375",
+  "relatedSubjectsIds": [
+    "2375.АТ",
+    "2375.ЕН"
+  ]
+}]
